@@ -1,2 +1,2 @@
 # EXERCICE_01
-premier exercice
+premier exercice (version Morgan)
